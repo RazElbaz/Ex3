@@ -1,6 +1,5 @@
 from Node import NodeDataImpl
 
-
 class DiGraph:
     # constructor
     def __init__(self, Nodes: dict = {}, Edges: dict = {}, MC: int = 0) -> None:
